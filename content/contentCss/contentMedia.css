@@ -1,0 +1,22 @@
+@media (max-width: 1200px){
+    .main__content__wrapper {
+        grid-template-columns: 1fr;
+    }
+}
+@media (max-width: 580px){
+    .main__content_left {
+        padding: 0;
+    }
+    .heder_top {
+        display: none;
+    }
+    .heder_bottom {
+        padding-top: 10px;
+    }
+    .content__text_btn {
+        margin-left: 14px;
+    }
+    .content__text_desc {
+        padding-left: 14px;
+    }
+}

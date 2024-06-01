@@ -1,0 +1,266 @@
+body {
+    margin: 0;
+    padding: 0;
+    direction: ltr;
+    color: #2f2f2f;
+    font-family: Roboto Flex, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, Geneva, Noto Sans Armenian, Noto Sans Bengali, Noto Sans Cherokee, " Noto Sans Devanagari", Noto Sans Ethiopic, Noto Sans Georgian, Noto Sans Hebrew, " Noto Sans Kannada", Noto Sans Khmer, Noto Sans Lao, Noto Sans Osmanya, Noto Sans Tamil, Noto Sans Telugu, Noto Sans Thai, arial, Tahoma, verdana, sans-serif;
+    font-size: 16px;
+}
+.bcaYeJ {
+    background-color: rgb(248, 248, 248);
+    height: 100vh;
+}
+.copYFV {
+    background-color: rgb(255, 255, 255);
+}
+.ldORSo {
+    width: 100%;
+    max-width: 1264px;
+    background-color: white;
+    margin: 0px auto 150px;
+    padding: 12px 20px;
+}
+.cHxxos {
+    display: inline-block;
+}
+.krURNj {
+    margin: auto 0px;
+}
+.kCRwwC {
+    position: relative;
+    width: 100%;
+    max-width: 429px;
+    margin: 0px auto;
+    padding: 32px 48px;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+.gJJSVa {
+    color: rgb(47, 47, 47);
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28.8px;
+    text-align: start;
+}
+.eXzUYA {
+    margin: 30px 0px 0px;
+}
+.cJDbaz {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    color: rgb(34, 34, 34);
+    text-align: center;
+    font-size: 14px;
+    line-height: 20px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid rgba(172, 172, 172, 0.2);
+}
+.cJDbaz span {
+    margin-right: 5px;
+    font-size: 14px;
+    line-height: 20px;
+}
+.cJDbaz a {
+    color: rgb(114, 0, 204);
+    font-size: 14px;
+    line-height: 20px;
+    padding: 0px;
+    border-width: 0px;
+    background-color: transparent;
+    text-decoration: none;
+}
+.eXzUYA > span {
+    display: block;
+    margin: 15px auto 0px;
+    color: rgb(130, 130, 130);
+    text-align: center;
+    font-size: 13px;
+    line-height: 16px;
+}
+
+
+
+.jVxplV {
+    margin-top: 25px;
+    max-width: 420px;
+    display: grid;
+    row-gap: 10px;
+}
+form {
+    margin: 0;
+}
+.cIxxzF {
+    width: 100%;
+    max-width: 328px;
+    display: grid;
+    row-gap: 10px;
+    margin: 0px auto;
+}
+.kDBYLL {
+    width: 100%;
+}
+.gjVCqm {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.lfZKwu {
+    position: absolute;
+    top: 50%;
+    left: 12px;
+    pointer-events: none;
+    transform: translateY(-50%);
+    transform-origin: left top;
+    transition: top 200ms ease 0s, font-size 200ms ease 0s;
+    color: rgb(130, 130, 130);
+    font-size: 15px;
+    line-height: 21px;
+}
+.leTncf {
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid transparent;
+    padding: 16px 12px 16px 16px;
+    appearance: none;
+    font-size: 15px;
+    line-height: 21px;
+    color: rgb(22, 22, 22);
+    transition: all 0.3s ease-in-out 0s;
+    background-color: rgb(248, 248, 248);
+    border-radius: 12px;
+}
+.cIxxzF {
+    width: 100%;
+    max-width: 328px;
+    display: grid;
+    row-gap: 10px;
+    margin: 0px auto;
+}
+.kDBYLL {
+    width: 100%;
+}
+.cIxxzF a {
+    color: rgb(114, 0, 204);
+    font-size: 14px;
+    line-height: 18px;
+    text-decoration: none;
+    margin-bottom: 5px;
+}
+.gjVCqm {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.lfZKwu {
+    position: absolute;
+    top: 50%;
+    left: 12px;
+    pointer-events: none;
+    transform: translateY(-50%);
+    transform-origin: left top;
+    transition: top 200ms ease 0s, font-size 200ms ease 0s;
+    color: rgb(130, 130, 130);
+    font-size: 15px;
+    line-height: 21px;
+}
+.leTncf {
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid transparent;
+    padding: 16px 12px 16px 16px;
+    appearance: none;
+    font-size: 15px;
+    line-height: 21px;
+    color: rgb(22, 22, 22);
+    transition: all 0.3s ease-in-out 0s;
+    background-color: rgb(248, 248, 248);
+    border-radius: 12px;
+}
+.dJdvAB {
+    cursor: pointer;
+    user-select: none;
+    background: none;
+    border: none;
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translate(0px, -50%);
+}
+.cIxxzF a {
+    color: rgb(114, 0, 204);
+    font-size: 14px;
+    line-height: 18px;
+    text-decoration: none;
+    margin-bottom: 5px;
+}
+.jVxplV button {
+    width: 100%;
+    margin: 0px auto;
+}
+
+
+.focZUm {
+    min-height: 40px;
+    display: inline-grid;
+    -webkit-box-pack: center;
+    justify-content: center;
+    column-gap: 10px;
+    grid-auto-flow: column;
+    -webkit-box-align: center;
+    align-items: center;
+    box-sizing: border-box;
+    border-radius: 12px;
+    border-width: 0px;
+    text-decoration: none;
+    transition: all 0.15s ease-out 0s;
+    font-family: inherit;
+    font-size: 15px;
+    line-height: 21px;
+    font-weight: 400;
+    white-space: nowrap;
+    padding: 12px 32px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(114, 0, 204);
+}
+input{
+    outline: none;
+}
+input:focus{
+    border: 1px solid rgb(114, 0, 204);
+}
+
+
+
+@media (max-width: 1000px){
+    .kCRwwC{
+        max-width: 768px;
+    }
+    .jVxplV,
+    .cIxxzF{
+        max-width: 768px;
+    }
+    .gJJSVa {
+        font-size: 40px;
+        margin-bottom: 40px;
+    }
+    .leTncf,
+    .focZUm {
+        height: 80px;
+    }
+    .jVxplV{
+        row-gap: 40px;
+    }
+    .leTncf::placeholder {
+        font-size: 30px;
+    }
+    .jVxplV button{
+        font-size: 30px;
+    }
+}
+
